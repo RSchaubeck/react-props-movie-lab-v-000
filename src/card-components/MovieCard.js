@@ -13,7 +13,7 @@ import React, { Component } from 'react';
 import CardFront from './CardFront.js';
 import CardBack from './CardBack.js';
 
-// eslint-disable-next-line
+
 const posterMap = {
   'choux-maru-istanbul': cmi,
   'choux-maru-part-1': cmp1,
